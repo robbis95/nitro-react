@@ -27,7 +27,7 @@
 
 .bubble-container {
     position: absolute;
-    width: fit-content;
+    width: max-content;
     transition: top 0.2s ease 0s;
     user-select: none;
     pointer-events: all;
